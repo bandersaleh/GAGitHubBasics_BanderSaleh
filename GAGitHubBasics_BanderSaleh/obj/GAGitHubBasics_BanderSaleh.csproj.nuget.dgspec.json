@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj": {}
+    "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GA_GitHub_Basics_BS\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj": {}
   },
   "projects": {
-    "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj": {
+    "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GA_GitHub_Basics_BS\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj",
+        "projectUniqueName": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GA_GitHub_Basics_BS\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj",
         "projectName": "GAGitHubBasics_BanderSaleh",
-        "projectPath": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj",
+        "projectPath": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GA_GitHub_Basics_BS\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh.csproj",
         "packagesPath": "C:\\Users\\bande\\.nuget\\packages\\",
-        "outputPath": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GAGitHubBasics_BanderSaleh\\obj\\",
+        "outputPath": "C:\\RTC\\Intro to Data Struct Alg\\Week1\\GA_GitHub_Basics_BS\\GAGitHubBasics_BanderSaleh\\GAGitHubBasics_BanderSaleh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
