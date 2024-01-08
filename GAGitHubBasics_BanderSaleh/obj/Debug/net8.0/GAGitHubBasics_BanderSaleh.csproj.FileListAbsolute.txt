@@ -1,0 +1,15 @@
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\bin\Debug\net8.0\GAGitHubBasics_BanderSaleh.exe
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\bin\Debug\net8.0\GAGitHubBasics_BanderSaleh.deps.json
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\bin\Debug\net8.0\GAGitHubBasics_BanderSaleh.runtimeconfig.json
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\bin\Debug\net8.0\GAGitHubBasics_BanderSaleh.dll
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\bin\Debug\net8.0\GAGitHubBasics_BanderSaleh.pdb
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.GeneratedMSBuildEditorConfig.editorconfig
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.AssemblyInfoInputs.cache
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.AssemblyInfo.cs
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.csproj.CoreCompileInputs.cache
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.sourcelink.json
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.dll
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\refint\GAGitHubBasics_BanderSaleh.dll
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.pdb
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\GAGitHubBasics_BanderSaleh.genruntimeconfig.cache
+C:\RTC\Intro to Data Struct Alg\Week1\GA_GitHub_Basics_BS\GAGitHubBasics_BanderSaleh\GAGitHubBasics_BanderSaleh\obj\Debug\net8.0\ref\GAGitHubBasics_BanderSaleh.dll

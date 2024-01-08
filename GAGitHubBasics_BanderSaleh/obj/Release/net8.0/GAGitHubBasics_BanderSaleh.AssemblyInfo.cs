@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("GAGitHubBasics_BanderSaleh")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538793568739989e694044782923fd6d1984b594")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GAGitHubBasics_BanderSaleh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GAGitHubBasics_BanderSaleh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
